@@ -1,2 +1,4 @@
-# policies
-public policies
+# Pointlook public policies
+----------
+- privacy : company privacy policy
+
